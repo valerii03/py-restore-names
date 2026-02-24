@@ -96,4 +96,3 @@ def test_restore_names_returns_none() -> None:
     result = restore_names(users)
 
     assert result is None
-
